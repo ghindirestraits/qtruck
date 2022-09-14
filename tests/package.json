@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "cypress": "^10.8.0",
+    "cypress-browser-permissions": "^1.1.0"
+  },
+  "name": "qtruck-tests",
+  "version": "1.0.0",
+  "description": "Projeto de testes de ponta a ponta no web app Qtruck",
+  "main": "index.js",
+  "author": "Gabriel Heberle",
+  "license": "MIT"
+}

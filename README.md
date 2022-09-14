@@ -48,11 +48,11 @@ As estórias para validação, bem como seus critérios de aceite (requisitos), 
 
 #### Critérios de aceitação
 
-- [] Login com sucesso
-- [] Senha inválida
-- [] Instagram não cadastrado
-- [] Instagram no formato incorreto
-- [] Todos os campos devem ser obrigatórios
+- [ ] Login com sucesso
+- [ ] Senha inválida
+- [ ] Instagram não cadastrado
+- [ ] Instagram no formato incorreto
+- [ ] Todos os campos devem ser obrigatórios
 
 ### Cadastro de usuário
 
@@ -62,11 +62,11 @@ As estórias para validação, bem como seus critérios de aceite (requisitos), 
 
 #### Critérios de aceitação
 
-- [] Cadastro de novo usuário
-- [] Instagram já foi cadastrado
-- [] Todos os campos são obrigatórios
-- [] Instagram deve estar no formato correto
-- [] Senha deve ter pelo menos 6 dígitos
+- [ ] Cadastro de novo usuário
+- [ ] Instagram já foi cadastrado
+- [ ] Todos os campos são obrigatórios
+- [ ] Instagram deve estar no formato correto
+- [ ] Senha deve ter pelo menos 6 dígitos
 
 ### Recomendação
 
@@ -76,10 +76,10 @@ As estórias para validação, bem como seus critérios de aceite (requisitos), 
 
 #### Critérios de aceitação
 
-- [] Recomendar food truck
-- [] Localização deve ser informada
-- [] Food truck já recomendado
-- [] Todos os campos são obrigatórios
+- [ ] Recomendar food truck
+- [ ] Localização deve ser informada
+- [ ] Food truck já recomendado
+- [ ] Todos os campos são obrigatórios
 
 ### Avaliação
 
@@ -89,6 +89,6 @@ As estórias para validação, bem como seus critérios de aceite (requisitos), 
 
 #### Critérios de aceitação
 
-- [] Enviar avaliação
-- [] Usuário já enviou a avaliação
-- [] Todos os campos são obrigatórios
+- [ ] Enviar avaliação
+- [ ] Usuário já enviou a avaliação
+- [ ] Todos os campos são obrigatórios
